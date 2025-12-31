@@ -103,3 +103,4 @@ typings/
 .tern-port
 /test/src
 /test/dist
+.npmrc
